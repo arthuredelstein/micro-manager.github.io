@@ -11,7 +11,6 @@ Micro-Manager:
 
 -   [Nenad Amodaj](http://www.amodaj.com), [Luminous Point
     LLC](http://www.luminous-point.com) - US (Bay Area)
--   [Arthur Edelstein](mailto:arthuredelstein@gmail.com) - US
 -   [Ecobima](http://www.ecobima.com) - Sweden
 -   [S3L GmbH](http://www.s3l.de/home/index/en) - Germany
 -   [Bluejay Imaging](http://bluejayimaging.com/) - China
